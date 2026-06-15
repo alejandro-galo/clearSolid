@@ -43,7 +43,7 @@
     }
     
     // obtiene el área de un cuadrado basado en sus lados
-    function getSquareArea( sideLength: number ) {
+    function getSquareArea( side: number ) {
         throw new Error('Function not implemented.');
     }
 
